@@ -23,9 +23,9 @@
 
 I turn raw, messy data into insights that businesses can actually act on — and I teach others how to do the same. My work sits at the intersection of **data analytics, business intelligence, data science, and technology education**.
 
-- 🎯 **Founder & Lead Instructor at [Techtrainity Limited](https://techtrainity.com)** — training the next generation of data analysts, data scientists, and business analysts
+- 🎯 **Founder & Lead Instructor at [Techtrainity Limited](https://techtrainity.com)**, training the next generation of data analysts, data scientists, and business analysts
 - 📈 Experienced across the full analytics lifecycle: cleaning and modeling data, building dashboards, and translating findings into business strategy
-- 🌍 Based in Lagos, Nigeria — working with students, clients, and collaborators around the world
+- 🌍 Based in Lagos, Nigeria; working with students, clients, and collaborators around the world
 - 🤝 Currently open to: freelance analytics projects, data science collaborations, and speaking/training opportunities
 - 💬 Ask me about: dashboard design, SQL, Python for analytics, or how to break into data as a career
 
